@@ -1,0 +1,3 @@
+'''
+test GET /posts
+'''
