@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.0.0](https://github.com/peterkost/versioning-test/compare/v1.3.1...v2.0.0) (2024-11-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* endpoints now require a JWT with your SSN, we are
+logging everything and reporting it to the NSA
+
+* feat!(endpoints): add authenticaion to endpoints ([62c801e](https://github.com/peterkost/versioning-test/commit/62c801edd47ee3da817d3f29fc85c62592e6f691))
+
+
+### Features
+
+* **endpoints:** create POST /delete-data ([d1f1221](https://github.com/peterkost/versioning-test/commit/d1f122119e7ed295721cefabd29a55de6659db6a))
+* **frontend:** create landing page ([a1f81fb](https://github.com/peterkost/versioning-test/commit/a1f81fb30ede5644f0d26da2b2f8b233c02a6b1f))
+* **frontend:** create login page ([c0cc9ef](https://github.com/peterkost/versioning-test/commit/c0cc9efbe561821e26fcd9cd0a50e2408cdcc4b3))
+
 ## [1.3.1](https://github.com/peterkost/versioning-test/compare/v1.3.0...v1.3.1) (2024-11-08)
 
 
