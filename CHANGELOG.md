@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.3.0](https://github.com/peterkost/versioning-test/compare/v1.2.0...v1.3.0) (2024-11-08)
+
+
+### Bug Fixes
+
+* **endpoints:** prevent post from being lost on restart ([35d52c3](https://github.com/peterkost/versioning-test/commit/35d52c32ea2e28eb00bac1ffadf7fb0cd265f91f))
+
 ## [1.2.0](https://github.com/peterkost/versioning-test/compare/v1.1.0...v1.2.0) (2024-11-08)
 
 
