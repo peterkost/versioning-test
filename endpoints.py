@@ -1,3 +1,3 @@
 '''
-GET /posts
+GET /posts -> {id, title}
 '''
