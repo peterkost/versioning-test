@@ -1,5 +1,5 @@
 '''
-GET /posts -> {id, title}
+async GET /posts -> {id, title}
 
 POST /posts
 '''
