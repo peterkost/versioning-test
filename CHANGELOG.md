@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.3.1](https://github.com/peterkost/versioning-test/compare/v1.3.0...v1.3.1) (2024-11-08)
+
+
+### Bug Fixes
+
+* **endpoints:** add missing timestamp param from GET /posts ([3f094ba](https://github.com/peterkost/versioning-test/commit/3f094ba77fb468aa608916e3f6e0102f4ef68d58))
+
 ## [1.3.0](https://github.com/peterkost/versioning-test/compare/v1.2.0...v1.3.0) (2024-11-08)
 
 
