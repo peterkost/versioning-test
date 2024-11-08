@@ -1,5 +1,5 @@
 '''
-async GET /posts -> {id, title, timestamp}
+async GET /posts/{id} -> {id, title, timestamp}
 
 POST /posts
     save post
